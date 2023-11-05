@@ -4,6 +4,6 @@ title: CV
 permalink: /about/
 profile: 
     align: right
-    image: assets/img/DChadefaux_Photo.jpg
+    image: DChadefaux_Photo.jpg
 ---
-plop2
+plop3
