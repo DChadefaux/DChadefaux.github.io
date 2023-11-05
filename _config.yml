@@ -33,6 +33,30 @@ theme: minima
 plugins:
   - jekyll-feed
 
+
+
+# -----------------------------------------------------------------------------
+# Responsive WebP Images
+# -----------------------------------------------------------------------------
+
+imagemagick:
+  enabled: true # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
+  widths:
+    - 480
+    - 800
+    - 1400
+  input_directories:
+    - assets/img/
+  input_formats:
+    - ".jpg"
+    - ".jpeg"
+    - ".png"
+    - ".tiff"
+  output_formats:
+    webp: "-resize 800x"
+
+
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
