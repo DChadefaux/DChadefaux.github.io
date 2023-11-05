@@ -3,6 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
+
 ---
 Delphine Chadefaux a soutenu en 2012 son doctorat à l’Université Pierre et Marie Curie. Il s’est déroulé au sein de l’Institut Jean Le Rond d’Alembert (UMR CNRS 7190) sous la direction de Benoît Fabre (PR Paris VI), Laurent Daudet (PR Paris VII) et Jean-Loïc Le Carrou (MCF Paris VI). Cette thèse, « Interaction Musicien/Instrument : le Cas de la Harpe de Concert » a abordé la question des relations gestes/sons dans la pratique de la harpe de concert et a reçu le prix « Jeune Chercheur Sciences et Musique 2011 » (IRISA, AFIM, Fondation Rennes/Action Metivier). Suite à ce doctorat et un ATER dans sa continuité à l’UPMC, Delphine Chadefaux a intégré l’Institut des Sciences du Mouvement E.J. Marey à Marseille (UMR CNRS 7287) à la rentrée 2013. En tant qu'ATER puis post-doctorante dans le cadre de la chaire industrielle avec l'entreprise Décathlon, ses travaux ont abordé la question des ajustements du couple sportif/matériel. Elle a en particulier abordé la question des phénomènes vibratoires aux interfaces sportif/matériel lors de la pratique du tennis et de la course à pied. Delphine Chadefaux a ensuite effectué une année de post-doctorat dans l’équipe de Marco Tarabini au sein du département de mécanique de Politecnico di Milano (Italie) afin de caractériser et de modéliser la réponse du corps humain face à des sollicitations vibratoires lors de la locomotion (2017-2018). 
 
