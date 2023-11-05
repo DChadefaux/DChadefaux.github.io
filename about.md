@@ -7,3 +7,4 @@ profile:
     image: DChadefaux_Photo.jpg
 ---
 plop8
+img = DChadefaux_Photo.jpg
