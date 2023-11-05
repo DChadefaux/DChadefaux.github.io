@@ -4,6 +4,6 @@ title: CV
 permalink: /about/
 profile: 
     align: right
-    img: /assets/img/DChadefaux_Photo.jpg
+    img: /mnt/FCB42A31B429EF38/DChadefaux_OneDrive/DChadefaux.github.io/assets/img
 ---
 plop6
