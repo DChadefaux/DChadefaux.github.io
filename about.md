@@ -6,3 +6,4 @@ profile:
     align: right
     image: DChadefaux_Photo.jpg
 ---
+plop
