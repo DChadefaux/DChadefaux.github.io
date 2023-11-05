@@ -46,7 +46,8 @@ imagemagick:
     - 800
     - 1400
   input_directories:
-    - assets/img/
+    - /mnt/FCB42A31B429EF38/DChadefaux_OneDrive/DChadefaux.github.io
+/assets/img/
   input_formats:
     - ".jpg"
     - ".jpeg"
