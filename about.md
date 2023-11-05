@@ -6,4 +6,5 @@ profile:
     align: right
     img: assets/img/DChadefaux_Photo.jpg
 ---
-plop5
+plop6
+img: assets/img/DChadefaux_Photo.jpg
