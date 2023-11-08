@@ -4,7 +4,7 @@ title: CV
 permalink: /about/
 profile: 
     align: right
-    image: DChadefaux_Photo.jpg
+    image: assets/img/DChadefaux_Photo.jpg
 ---
 plop8
-img = DChadefaux_Photo.jpg
+img = assets/img/DChadefaux_Photo.jpg
